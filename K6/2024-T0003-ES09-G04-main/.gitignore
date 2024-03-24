@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/src/backend/Web.Api.Track.co/Web.Api.Track.co/bin/Debug/net7.0
+/src/backend/Web.Api.Track.co/Web.Api.Track.co.Tests/bin/Debug/net7.0
+/node_modules
+
+**/.idea/
+src/backend/Web.Api.Track.co/Web.Api.Track.co.Tests/obj/
+src/backend/Web.Api.Track.co/Web.Api.Track.co/obj/

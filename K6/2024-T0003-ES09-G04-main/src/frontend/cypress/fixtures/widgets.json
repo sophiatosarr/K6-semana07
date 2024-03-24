@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "title": "Widget 1",
+    "link": "http://linkparaowidget1.com"
+  },
+  {
+    "id": 2,
+    "title": "Widget 2",
+    "link": "http://linkparaowidget2.com"
+  },
+  {
+    "id": 3,
+    "title": "Widget 3",
+    "link": "http://linkparaowidget3.com"
+  }
+]
